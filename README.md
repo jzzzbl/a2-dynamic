@@ -13,7 +13,9 @@ There are 3 navigation options:
 * **Community tab** - is a discussion board with many threads.
 
 ## Installation
-Open the `package.json` file and type `yarn install` in the terminal, this will install all relevant dependencies.
+Open the `package.json` file and use `yarn install` to install all relevant dependencies.
+    
+    yarn install
 
 **OR**
 
