@@ -1,4 +1,4 @@
-# KnC Figure Skating Forum App
+# Figure Skating Forum App
 Assignment #2 - React App - Dynamic Source
 
 ## About the App
